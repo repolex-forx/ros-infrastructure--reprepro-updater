@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/ros-infrastructure/reprepro-updater/commit/1ade02f3d773e0122a3347a6eea4455025b96d83",
       "git:hexsha": "1ade02f3d773e0122a3347a6eea4455025b96d83",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
